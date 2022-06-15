@@ -4,8 +4,8 @@
 ## Description
 ```
 This application generates a spontaneous password based on user-chosen criteria. Usually used for employees.
-![image](https://user-images.githubusercontent.com/105884236/173712080-1322b9ef-dc2d-4611-8530-4818dab57659.png)
 ```
+![image](https://user-images.githubusercontent.com/105884236/173712080-1322b9ef-dc2d-4611-8530-4818dab57659.png)
 
 ## USER STORY
 ```
@@ -33,7 +33,6 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
 ## Links 
-```
 Deployed url: https://mooreyc.github.io/employee-password-generator/
 Repository url: https://github.com/mooreyc/employee-password-generator/edit/main/README.md
-```
+
