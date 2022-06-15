@@ -34,5 +34,5 @@ THEN the password is either displayed in an alert or written to the page
 ```
 ## Links 
 Deployed url: https://mooreyc.github.io/employee-password-generator/
-Repository url: https://github.com/mooreyc/employee-password-generator/edit/main/README.md
+Repository url: https://github.com/mooreyc/employee-password-generator/
 
